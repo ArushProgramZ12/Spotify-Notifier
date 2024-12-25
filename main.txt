@@ -1,0 +1,7 @@
+Steps how to use Spotify Notifier
+
+Step 1: open Visual studio Code
+step 2: run Code
+Step 3: in terminal write name of the artist you want update on 
+
+thanls😁
